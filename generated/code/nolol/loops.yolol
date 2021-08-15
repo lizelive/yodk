@@ -1,0 +1,7 @@
+:out=""
+ifb>5thengoto6end
+ifc>5thengoto5end
+ifc==0 or b==0 or c==5 or b==5then:out+="X"else:out+="0"end c++ goto3
+c=0 b++ :out+="\n" goto2
+d=6
+ifd--then:out2+=1 goto7end :done=1 goto1

@@ -1,0 +1,5 @@
+b=123 c=55 :sum=(b+100)%256+(c+100)%256
+if:timer++<=10thengoto2end :foo=1 :go=1 :out1="Hello"
+ifd++<=5then:out1+="." goto3end :out1+="world" :out2="Hello"
+ife++<=5then:out2+="_" goto4end :out2+="you" f="foo" :out3=g :out4=f
+:sum2=(b+c)%256+100 :done=1 goto1

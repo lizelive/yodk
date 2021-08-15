@@ -1,0 +1,2 @@
+:hello="hello "
+ifb++<=10then:hello+="_" goto2end :hello+=" daniel" :done=1 goto1

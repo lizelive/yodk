@@ -1,0 +1,6 @@
+if++b>=5thengoto3end :m=1 :d=b*2 :a=b
+if:a thengoto2end goto1
+:sum=""
+if++c>=5thengoto6end :m=0 :a=c
+if:a thengoto5end d=:d :sum+=d+"," goto4
+:done=1 goto1
